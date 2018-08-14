@@ -1,7 +1,3 @@
-# Blockchain Reading Group
+# NUS SOC CS4236 Cryptography Theory and Practice
 
-This is the static site for the Blockchain Reading Group at the National University of Singapore from 5th April 2018 till 28th Jun 2018. The group is organized by Prateek Saxena.
-
-## Enquiries
-
-For any enquiries please contact dan at dan [at] comp.nus.edu.sg. 
+This is the static site for CS4236 Cryptography Theory and Practice at National University of Singapore.
